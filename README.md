@@ -1,34 +1,15 @@
-# TaraDruffel
+# Tara Druffel - Software Developer
 
-### TJ DeVries
+👋 Hi there! I'm Tara, a Frontend Developer with a deep appreciation for UX/UI design and a solid grasp of backend technologies. Passionate about creating innovative and comprehensive technical solutions.
 
-I am a:
-- Core Maintainer: [Neovim](https://github.com/neovim/neovim) with over 40k stars & over 1 million downloads.
-- Community Builder: [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) which has over 50 contributors in less than 6 months.
-- Developer Tool Creator: [plenary.nvim](https://github.com/nvim-lua/plenary.nvim/)
-- Working at: [Sourcegraph](https://www.sourcegraph.com/)
-- Live Coder: [teej_dv](https://twitch.tv/teej_dv)
-
-
-#### Contact Information:
-- Email: `devries.timothyj <at> gmail.com`
-- Discord: `TJ DeVries#4375`
-
-#### Projects:
-
-- 🔭 I’m the author of [telescope.nvim](https://github.com/nvim-lua/telescope.nvim)
-- A core contributor to [Neovim](https://github.com/neovim/neovim). Primarily focused on:
-    - Integrating Lua into Neovim.
-    - The built-in LSP client.
-- Wrote my own (WIP) transpiler for vim9script [vim9jit](https://github.com/tjdevries/vim9jit)
-- Popular dotfile configuration / examples for my [configuration_manager](https://github.com/tjdevries/config_manager)
+## Skills & Expertise
+- **Frontend Development & UX Design**: Proficient in Angular, Neovim, and UI/UX design, focusing on user-friendly interfaces and seamless user experiences.
+- **Backend Knowledge**: Experience with Java EE, JSF, and Firebase, ensuring robust and scalable backend solutions.
+- **Design Tools**: Skilled in InDesign, Figma, Prototyping, and Usability Testing, enhancing the user interface and overall design quality.
+- **DevOps Support**: Familiar with DevOps practices, contributing to the efficiency and reliability of development processes.
 
 
-#### Sponsor:
-
-I like making plugins and making Neovim work better for me & as many people as I can :grin:.
-You can sponsor my work [here](https://github.com/sponsors/tjdevries).
-
-If github sponsors isn't your thing, you can checkout teejdv.eth
-
-- ⚡ Fun fact: I like to play the marimba!
+## Contact
+- 📧 Email: [taradruffel@outlook.com](mailto:taradruffel@outlook.com)
+- 🌐 Xing: [Tara Druffel](https://www.xing.com/profile/Tara_Druffel/)
+- 💼 GitHub: [Askath](https://github.com/Askath)
