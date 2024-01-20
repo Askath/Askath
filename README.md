@@ -13,5 +13,5 @@
 - 📧 Email: [taradruffel@outlook.com](mailto:taradruffel@outlook.com)
 - 🌐 Xing: [Tara Druffel](https://www.xing.com/profile/Tara_Druffel/)
 - 💼 Profile: [Portfolio page](https://taradruffel.de)
-- 🍔 Food Blog: [Taras Kitche](https://kitchenwithbudget.com/)
+- 🍔 Food Blog: [Taras Kitchen](https://kitchenwithbudget.com/)
 
