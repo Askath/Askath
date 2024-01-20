@@ -12,4 +12,6 @@
 ## Contact
 - 📧 Email: [taradruffel@outlook.com](mailto:taradruffel@outlook.com)
 - 🌐 Xing: [Tara Druffel](https://www.xing.com/profile/Tara_Druffel/)
-- 💼 GitHub: [Askath](https://github.com/Askath)
+- 💼 Profile: [Portfolio page](https://taradruffel.de)
+- 🍔 Food Blog: [Taras Kitche](https://kitchenwithbudget.com/)
+
