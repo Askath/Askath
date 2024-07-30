@@ -1,13 +1,40 @@
-# Tara Druffel - Software Developer
-![frontend](https://github.com/user-attachments/assets/d48d7257-3e33-41df-92c3-35d195f04908)
+# Hey there
+
+<div align="center">
+<img width="250" alt="dashboard" src="https://github.com/user-attachments/assets/159662ab-6d16-4ad8-9e24-d6f3c7b69a75">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6eafb989-6b1d-401c-80cd-2ea46afceeef" height="40" alt="typescript logo"  />
+   <img src="https://github.com/user-attachments/assets/79735173-0ba0-4626-8323-d0863b5c14bd" height="40" alt="typescript logo"  />
+  <img src="https://github.com/user-attachments/assets/1035b85c-36e1-4ba9-b2c2-4fd0d0ed5b98" height="40" alt="typescript logo"  />
+  <img src="https://github.com/user-attachments/assets/a9aed9b3-7f69-40f3-8a5f-3d8e94eab202" height="40" alt="typescript logo"  />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Askath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Askath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+###
 
 👋 Hi there! I'm Tara, a Frontend Developer with a deep appreciation for UX/UI design and a solid grasp of backend technologies. Passionate about creating innovative and comprehensive technical solutions.
 
-## Skills & Expertise
-- **Frontend Development & UX Design**: Proficient in Angular, Neovim, and UI/UX design, focusing on user-friendly interfaces and seamless user experiences.
-- **Backend Knowledge**: Experience with Java EE, JSF, and Firebase, ensuring robust and scalable backend solutions.
-- **Design Tools**: Skilled in InDesign, Figma, Prototyping, and Usability Testing, enhancing the user interface and overall design quality.
-- **DevOps Support**: Familiar with DevOps practices, contributing to the efficiency and reliability of development processes.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+</div>
+
+###
 
 
 ## Contact
