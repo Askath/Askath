@@ -1,4 +1,5 @@
 # Tara Druffel - Software Developer
+![frontend](https://github.com/user-attachments/assets/d48d7257-3e33-41df-92c3-35d195f04908)
 
 👋 Hi there! I'm Tara, a Frontend Developer with a deep appreciation for UX/UI design and a solid grasp of backend technologies. Passionate about creating innovative and comprehensive technical solutions.
 
